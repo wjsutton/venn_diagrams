@@ -51,7 +51,3 @@ This script is particularly useful in spatial analysis, GIS applications, and da
 
 ## Contributions
 Contributions, bug reports, and feature requests are welcome. Please follow the standard GitHub pull request process to propose changes.
-
----
-
-Remember to include a license and contact information if necessary. This README is a starting point and should be customized based on the specific needs and context of your project.
